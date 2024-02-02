@@ -10,7 +10,7 @@ export const config = {
   runtime: 'edge',
 }
 
-const openAiKey = process.env.OPENAI_KEY
+const openAiKey = "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"
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL
 const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY
 
